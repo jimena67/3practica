@@ -1,0 +1,8 @@
+{
+    "lista_alumnos": [
+        {"item_id": 1, "matricula": 91810227, "nombre":"Micheli", "edad":22}, 
+        {"item_id": 2, "matricula": 91810589, "nombre":"Jorge", "edad":22}, 
+        {"item_id": 3, "matricula": 91810098, "nombre":"Irma", "edad":22}, 
+        {"item_id": 4, "matricula": 918765435, "nombre":"Ana", "edad":21}
+    ]
+}
